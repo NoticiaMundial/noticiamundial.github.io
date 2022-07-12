@@ -1,0 +1,473 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: fixed;
+    background-position: center;
+}
+
+.hola{
+    margin: 10px auto;
+    border: 1px;
+    margin-bottom: 20px;
+    width: 1150px;
+    height: 2500px;
+    
+}
+
+.hola img{
+    margin: 10px;
+    margin-left: 250px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.hola .title{
+    display: flex;
+    margin: -84px;
+    margin-left: 370px;
+    
+}
+
+.hola .title p{
+    font: 350% sans-serif;
+    color: white;
+}
+
+.hola .line{
+    margin: 80px;
+    margin-left: 370px;
+    background: white;
+    border: 1px;
+    width: 520px;
+    height: 5px;
+}
+
+.hola .publicidad{
+    margin: -40px;
+    margin-left: 1px;
+    border: 5px;
+    width: 235px;
+    height: 900px;
+}
+
+.hola .publicidad img{
+    margin: 30px;
+    margin-left: 12px;
+    width: 210px;
+    height: 180px;
+}
+
+.hola .publicidad p{
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+
+.hola .publicidad a{
+    margin-left: 23px;
+    color: aqua;
+}
+
+.hola .publicidad .noti p{
+    margin-left: -25px;
+}
+
+.hola .publicidad .noti a{
+    margin-left: 24px;
+    color: aqua;
+}
+
+.hola .publicidad .eco p{
+    margin-left: -10px;
+}
+
+.hola .publicidad .eco a{
+    margin-left: 25px;
+}
+
+.hola .parrafo{
+    margin: -910px;
+    margin-left: 260px;
+    
+    border: 5px;
+    width: 850px;
+    height: 910px;
+}
+
+.hola .parrafo p{
+    font: 400% sans-serif;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black,
+	  1px 0 black, 0 -1px black
+}
+
+.hola .parrafo .parrafo2 p2{
+    font: 115% sans-serif;
+    line-height: 1.6em;
+    color: white;
+}
+
+.hola .parrafo .vi{
+    margin: -10px;
+    margin-left: 100px;
+}
+
+.hola .parrafo .vi video{
+    width: 600px;
+    height: 400px;
+}
+
+.hola .paises{
+    margin-top: 925px;
+    margin-left: 250px;
+    width: 730px;
+    height: 1152px;
+}
+
+.hola .paises .austra{
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .cana{
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .ua{
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .coresur{
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .corenor{
+    margin-top: 80px;
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .costamerfi{
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .alem{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .indi{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .mexi{
+    margin-top: 80px;
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .sene{
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .nige{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .arge{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .chi{
+    margin-top: 80px;
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .nueva{
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .came{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .rusi{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .per{
+    margin-top: 80px;
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .arg{
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .vene{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .paises .colom{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.hola .extras{
+    margin-top: 6px ;
+    margin-left: 0px;
+    width: 1439,5px;
+    height: 470px;
+}
+
+ .hola .extras p{
+    margin: 40px;
+    font: 150% sans-serif;
+    color: white;
+    margin-left: 130px;
+}
+
+.hola .extras .gau{
+    margin-left: 70px;
+}
+
+.hola .extras .preferencias {
+    margin: -415px;
+    margin-left: 255px;
+}
+
+@media screen and (max-width:800px){
+    .hola img{
+        margin-left: -20px;
+    }
+}
+
+@media screen and (max-width:500px){
+
+
+    .hola img{
+        margin-left: 30px;
+    }
+
+
+    .hola .title{
+        margin-left: 138px;
+        font: 50% sans-serif;
+    }
+
+    .hola .line{
+        margin-left: 135px;
+        width: 242px;
+    }
+
+    .hola .publicidad{
+        margin-top: 1255px;
+        margin-left: 50px;
+    }
+
+    .hola .parrafo{
+        margin-top: -2085px;
+        margin-left: 25px;
+        width: 345px;
+    }
+
+    .hola .parrafo p{
+        font: 125% sans-serif; 
+    }
+
+    .hola .parrafo .vi video{
+        margin-left: -110px;
+        width: 350px;
+    }
+
+    .hola .parrafo .parrafo2 p2{
+        font: 130% sans-serif;
+    }
+
+    .hola .paises {
+        margin-top: 2070px;
+        margin-left: 50px;
+        width: 380px;
+    }
+
+    .hola .paises .austra{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .cana{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .ua{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .coresur{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .corenor{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .costamerfi{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .alem{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .indi{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .mexi{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .sene{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .nige{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .arge{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .chi{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .nueva{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .came{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .rusi{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .per{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .arg{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .vene{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .paises .colom{
+        width: 50px;
+        height: 50px;
+    }
+
+    .hola .extras{
+        margin-top: -500px;
+        font: 60% sans-serif;
+        margin-left: -90px;
+    }
+
+    .hola .extras p{
+        margin-left: 120px;
+    }
+
+    .hola .extras .gau p{
+        margin-left: 50px;
+    }
+
+    .hola .extras .preferencias{
+        margin-top: -400px;
+    }
+
+    .hola .extras .preferencias p{
+        margin-left: -8px;
+        width: 210px;
+    }
+
+}
